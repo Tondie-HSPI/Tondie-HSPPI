@@ -1,4 +1,4 @@
-# Hi, I’m Tondreka
+# Hi, I’m Tondreka Robles
 
 I design AI systems that reduce operational friction and improve decision-making in real-world workflows.
 
