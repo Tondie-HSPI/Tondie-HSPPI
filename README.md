@@ -1,6 +1,6 @@
 # Hi, I’m Tondreka Robles
 
-I design AI systems that reduce operational friction and improve decision-making in real-world workflows.
+I design AI systems that bridge the gap between technical capability and real-world business workflows. Currently pursuing a Master’s in Applied AI & Business Analytics at the University of Rochester.
 
 ## What I Focus On
 - AI-driven workflow design
@@ -8,8 +8,8 @@ I design AI systems that reduce operational friction and improve decision-making
 - Human-centered AI implementation
 - Insurance, compliance, and service operations
 
-## Featured Work
-- **Compliance Explained**  
+## Featured Work- 
+**[Compliance Explained](https://github.com/Tondie-HSPI/compliance-explained/tree/codex/platform-publish)**  
   AI-powered tool that transforms complex insurance contract requirements into structured, actionable checklists
 
 ## Approach
